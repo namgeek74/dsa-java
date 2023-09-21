@@ -29,4 +29,5 @@ public class BigO {
     // BigO = O(log n)
     // log of 2
     // Binary Search
+    // Divide and Conquer algorithm
 }
